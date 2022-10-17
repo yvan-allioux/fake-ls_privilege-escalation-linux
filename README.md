@@ -21,4 +21,4 @@ Lancer ce script sur un pc (une cle usb ruber ducky peut aider) et la commande L
 la commande LS s'affiche normalement après cela
 
 
-ubuntu 20 ans 22 ok
+ubuntu 20 and 22 ok

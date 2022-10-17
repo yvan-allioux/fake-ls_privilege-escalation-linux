@@ -7,6 +7,8 @@ Run this script on a laptop (a ruber ducky usb key can help) and the LS command 
 the LS command is displayed normally after that
 
 
+---FR---
+
 Remplacement de la commande linux LS pour une élévation de privilège.
 
 Vous avez avec un accès sur une session ROOT mais vous ne connaissez pas le mot de pass pour lancer des commandes utiles ?
